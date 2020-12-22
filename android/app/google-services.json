@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290567430296",
+    "firebase_url": "https://absensi-mirota.firebaseio.com",
+    "project_id": "absensi-mirota",
+    "storage_bucket": "absensi-mirota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290567430296:android:3d616372f9bc333712f0ed",
+        "android_client_info": {
+          "package_name": "example.com.geo_attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290567430296-20ugji2rl2e28u5k8pmjb5bvrv5isca9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJiLnjr-Pix1meVZC13gLmcLmt8lcAulM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290567430296-20ugji2rl2e28u5k8pmjb5bvrv5isca9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
